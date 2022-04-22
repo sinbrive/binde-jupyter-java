@@ -5,4 +5,4 @@
 https://mybinder.org/v2/gh/sinbrive/binde-jupyter-java/HEAD
 
 
-surce : https://github.com/Praveen101997/binder_java
+source : https://github.com/Praveen101997/binder_java
